@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(68, 175, 175);
+}
+div h1{
+    color: darkblue;
+}
+div{
+    width: 800px;
+    color: rgb(250, 250, 250);
+}
+div{
+    border: 2px solid rgb(192, 192, 190);
+}
+div img{
+    width: 40%; 
+    border: 1px solid brown;
+    border-radius:50%;
+}
+.ceo{
+    color: darkgreen;
+}
+div h3{
+    color: darkmagenta;
+}
+.dream{
+    color: maroon;
+}
+.work{
+    color: orangered;
+}
+.view{
+    color: seagreen;
+}
+.honesty{
+    color: rgb(0, 255, 115);
+}
+.gs{
+    color: red;
+}
+button{
+    background-color: indigo;
+}
